@@ -24,8 +24,8 @@ I’m a Computer Science Engineering (CSE) student passionate about building coo
 
 ## 📫 Connect with Me
 
-- GitHub: [its-prnm](https://github.com/its-poorni)  
-- LinkedIn: [Your LinkedIn URL]  
+- GitHub: [its-poorni](https://github.com/its-poorni)  
+- LinkedIn: [https://www.linkedin.com/in/poornima-yarlagadda/]  
 - Twitter: [Your Twitter Handle]
 
 ---
