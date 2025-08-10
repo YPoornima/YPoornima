@@ -25,17 +25,19 @@ I’m a Computer Science Engineering (CSE) student passionate about building coo
 ## 📫 Connect with Me
 
 - GitHub: [its-poorni](https://github.com/its-poorni)  
-- LinkedIn: [Poornima](https://www.linkedin.com/in/poornima-yarlagadda/) 
+- LinkedIn: [Poornima](https://www.linkedin.com/in/poornima-yarlagadda/)
+
+---
+## Languages & Tools
+
+⚡ HTML5 &nbsp; | &nbsp; 🎨 CSS3 &nbsp; | &nbsp; ⚙️ JavaScript &nbsp; | &nbsp; 🐙 Git &nbsp; | &nbsp; 🖥 VS Code  
+
 
 
 ---
 
 Thanks for visiting my profile! Feel free to reach out or check out my projects.
 
-## Languages & Tools
-
-⚡ HTML5 &nbsp; | &nbsp; 🎨 CSS3 &nbsp; | &nbsp; ⚙️ JavaScript &nbsp; | &nbsp; ⚛️ React  
-🌿 Node.js &nbsp; | &nbsp; 🐙 Git &nbsp; | &nbsp; 🖥 VS Code  
 
 
 
