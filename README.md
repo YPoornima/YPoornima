@@ -32,12 +32,6 @@ I’m a Computer Science Engineering (CSE) student passionate about building coo
 
 Thanks for visiting my profile! Feel free to reach out or check out my projects.
 
-
-
-
-![Poornima's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-prnm&show_icons=true&theme=radical)
-
-
 ## Languages & Tools
 
 ⚡ HTML5 &nbsp; | &nbsp; 🎨 CSS3 &nbsp; | &nbsp; ⚙️ JavaScript &nbsp; | &nbsp; ⚛️ React  
@@ -45,15 +39,5 @@ Thanks for visiting my profile! Feel free to reach out or check out my projects.
 
 
 
-
-### Languages & Tools
-
-![HTML](https://badgen.net/badge/icon/html5?icon=html5&label)  
-![CSS](https://badgen.net/badge/icon/css3?icon=css3&label)  
-![JavaScript](https://badgen.net/badge/icon/javascript?icon=javascript&label)  
-![React](https://badgen.net/badge/icon/react?icon=react&label)  
-![Node.js](https://badgen.net/badge/icon/node.js?icon=node.js&label)  
-![Git](https://badgen.net/badge/icon/git?icon=git&label)  
-![VS Code](https://badgen.net/badge/icon/visual-studio-code?icon=visual-studio-code&label)
 
 
