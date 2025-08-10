@@ -30,7 +30,7 @@ I’m a Computer Science Engineering (CSE) student passionate about building coo
 ---
 ## Languages & Tools
 
-⚡ HTML5 &nbsp; | &nbsp; 🎨 CSS3 &nbsp; | &nbsp; ⚙️ JavaScript &nbsp; | &nbsp; 🐙 Git &nbsp; | &nbsp; 🖥 VS Code  
+⚡ HTML5   |   🎨 CSS3   |   ⚙️ JavaScript   |   🐙 Git   |   🐱 GitHub   |   🖥 VS Code
 
 
 
